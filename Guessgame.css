@@ -1,0 +1,59 @@
+.dolly{
+    width:100%;
+}
+.dollybg{
+    background-color: white;
+}
+.doll{
+    width:100%;
+}
+.p1{
+    font-family: "Roboto";
+    font-weight:500;
+    font-size:24px;
+    color: #323f4b;
+    margin-top: 20px;
+    text-align: center;
+}
+.div2{
+    background-color: #246db6;
+}
+.header{
+    font-family:"Roboto";
+    font-weight: bold;
+    color:white;
+    font-size: 34px;
+    text-align: center;
+}
+.guessimg{
+    width: 48px;
+}
+.ic1{
+    text-align: center;
+}
+.inpu{
+    width:300px;
+    font-family:"Roboto";
+    font-size: 30px;
+    font-weight: 500;
+    color:green;
+    text-align: center;
+}
+.ic2{
+    text-align: center;
+}
+.check{
+    border-radius: 5px;
+    padding: 10px;
+    margin: 20px;
+    width: 170px;
+    background-color: darkseagreen;
+}
+.game-result {
+    font-family: "Roboto";
+    font-weight: 500;
+    font-size: 24px;
+    color: #ffffff;
+    padding: 10px;
+    text-align: center;
+}
